@@ -1,7 +1,9 @@
 # 🦺 PPE Detection using YOLOv8
 This project is a Personal Protective Equipment (PPE) Detection system developed using the YOLOv8 object detection model. It helps ensure safety compliance on industrial or construction sites by detecting whether individuals are wearing the necessary safety gear: helmets, vests, and gloves.
 
-🎥 Watch Detection Video Demo
+## 📽️ Demo Video
+
+▶️ [Watch Demo on Google Drive](https://drive.google.com/file/d/1gSoLGwFfiGxdhymJPDHhXZlAEhUy8NR4/view?usp=sharing)
 
 # 🚀 Project Overview:
  * Detects PPE items in images, videos, and real-time webcam streams
