@@ -40,18 +40,18 @@ This project is a Personal Protective Equipment (PPE) Detection system developed
 # 🧠 Model Details
  Model: YOLOv8 by Ultralytics
 
- *Frameworks Used: OpenCV, Ultralytics
+ * Frameworks Used: OpenCV, Ultralytics
 
- *Dataset: Custom annotated images of PPE scenarios
+ * Dataset: Custom annotated images of PPE scenarios
 
- *Training: Model fine-tuned with transfer learning
+ * Training: Model fine-tuned with transfer learning
 
 # 📊 Model Performance
- *Trained for 70 epochs with augmentations
+ * Trained for 70 epochs with augmentations
 
- *Achieved high mAP and precision
+ * Achieved high mAP and precision
 
- *Robust detection on crowded or complex scenes
+ * Robust detection on crowded or complex scenes
 
  
 
